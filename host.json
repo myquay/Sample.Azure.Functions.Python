@@ -1,0 +1,5 @@
+{
+    // The unique ID for this job host. Can be a lower case GUID
+    // with dashes removed (Required)
+    "id": "70e9f8bedd164a87920bdb44c4b43ed4"
+}
